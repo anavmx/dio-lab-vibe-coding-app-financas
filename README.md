@@ -467,6 +467,11 @@ Gerar uma aplicação completa com:
 
 A experiência deve transmitir simplicidade, clareza, confiança e incentivar hábitos financeiros saudáveis para iniciantes.
 Resultado no Lovable:https://lovable.dev/projects/940d6d3a-8e79-4481-a161-6e23a553a5f1?magic_link=mc_d46ed686-a3b5-41e8-a1ca-60dc113352e8
+<img width="1366" height="591" alt="Captura de Tela (4)" src="https://github.com/user-attachments/assets/a2170441-80f7-4416-8c88-c58c8370188e" />
+<img width="1366" height="591" alt="Captura de Tela (3)" src="https://github.com/user-attachments/assets/97d00cf2-0296-4bfc-a5e1-012448c06a19" />
+<img width="1344" height="594" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/8b098129-8fa8-4d01-a426-e34238004a60" />
+<img width="1366" height="590" alt="Captura de Tela (5)" src="https://github.com/user-attachments/assets/7e87238b-6c69-4c2d-a330-b93b4018281a" />
+
 Resumo do que o app faz:<img width="398" height="2268" alt="image" src="https://github.com/user-attachments/assets/c888d7a4-d8bd-4f10-8831-90f672ae1ca6" />
 O que não funcionou bem: eram poucos créditos gratuitos na Lovable então era algo mais lento e pousado.
 O que aprendi: com um bom prompt o resultado fica melhor, aprendendo a estruturar.
