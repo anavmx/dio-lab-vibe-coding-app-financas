@@ -472,7 +472,7 @@ Resultado no Lovable:https://lovable.dev/projects/940d6d3a-8e79-4481-a161-6e23a5
 <img width="1344" height="594" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/8b098129-8fa8-4d01-a426-e34238004a60" />
 <img width="1366" height="590" alt="Captura de Tela (5)" src="https://github.com/user-attachments/assets/7e87238b-6c69-4c2d-a330-b93b4018281a" />
 
-Resumo do que o app faz:<img width="398" height="2268" alt="image" src="https://github.com/user-attachments/assets/c888d7a4-d8bd-4f10-8831-90f672ae1ca6" />
+<img width="398" height="2268" alt="image" src="https://github.com/user-attachments/assets/c888d7a4-d8bd-4f10-8831-90f672ae1ca6" />
 
 
 
